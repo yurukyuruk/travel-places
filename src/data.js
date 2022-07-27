@@ -13,7 +13,7 @@ export default [
         key: "2",
         title: "Venice",
         location: "Italy",
-        googleMapsUrl: "https://goo.gl/maps/jagPRDjLHAov96bQA",
+        googleMapsUrl: "https://goo.gl/maps/C61qLgTajKRMd8Re7",
         startDate: "27 April, 2018",
         endDate: "30 April, 2018",
         description: "Venice is unique environmentally, architecturally, and historically. It remains a major Italian port in the northern Adriatic Sea and is one of the world’s oldest tourist and cultural centres.",

@@ -1,0 +1,50 @@
+.app {
+    display: flex;
+    border-bottom: 2px solid #F5F5F5;
+}
+.main-image {
+    width: 125px;
+    height: 168px;
+    margin: 18px 19px 18px 40px;
+    border-radius: 5px;
+}
+.location-section {
+    display: flex;
+    align-items: center;
+}
+.city-section {
+    display: flex;
+    align-items: center;
+}
+.location-symbol {
+    width: 14px;
+    height: 14px;
+    margin-right: 4px;
+}
+.city-name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    margin-right: 12px;
+}
+.map-link {
+    color: rgba(145, 142, 155, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+}
+.heading, .dates, .description {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+.heading {
+    margin-top: -12px;
+    margin-bottom: 16px;
+    font-weight: bold;
+}
+.dates {
+    font-weight: bold;
+}
+.description {
+    font-size: 12px;
+    margin-top: -16px;
+}
