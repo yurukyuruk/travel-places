@@ -1,6 +1,5 @@
 .header {
     height: 55px;
-    width: 550px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,3 +17,9 @@
     font-weight: 500;
     color: white;
 }
+
+@media (max-width: 550px) {
+    .header {
+      width: 100vw;
+    }
+  }

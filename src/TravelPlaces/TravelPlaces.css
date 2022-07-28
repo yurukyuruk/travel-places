@@ -49,3 +49,9 @@
     margin-top: -16px;
     margin-right: 40px;
 }
+
+@media (max-width: 550px) {
+    .app {
+      width: 100vw;
+    }
+  }

@@ -6,6 +6,7 @@ body {
     justify-content: center;
     margin: 0;
     background-color: #F5F5F5;
+    overflow-x: hidden;
 }
 #root {
     display: flex;
@@ -14,3 +15,9 @@ body {
     width: 550px;
     background-color: white;
 }
+
+@media (max-width: 550px) {
+    #root {
+      width: 100vw;
+    }
+  }
